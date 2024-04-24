@@ -10,3 +10,17 @@ class Empleado: # Creamos la clase empleado
 
     def aumentar_salario(self, porcentaje): # Definimos el método aumentar_salario
         self.salario += self.salario * (porcentaje / 100) # Aumentamos el salario del empleado
+
+# Crear dos objetos de tipo Empleado
+empleado1 = Empleado("Juan", "Perez", 30, 50000)
+empleado2 = Empleado("Ana", "Gomez", 28, 55000)
+
+# Mostrar la información de ambos empleados
+empleado1.mostrar_informacion()
+empleado2.mostrar_informacion()
+
+# Aumentar el salario del primer empleado en un 10%
+empleado1.aumentar_salario(10)
+
+# Mostrar nuevamente la información del primer empleado
+empleado1.mostrar_informacion()
