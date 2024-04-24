@@ -1,0 +1,13 @@
+
+6
+Ej2.py,1\9\196cfd82d67838104258b105488c6f1efed4b9d2
+6
+Ej3.py,8\b\8ba4653c1bad8287ac815b08b6c7a2162de05123
+Å
+Q.idea/sonarlint/securityhotspotstore/1/9/196cfd82d67838104258b105488c6f1efed4b9d2,4\9\497108c8eca1f576bb6841f3ea8413de8241c962
+Å
+Q.idea/sonarlint/securityhotspotstore/8/b/8ba4653c1bad8287ac815b08b6c7a2162de05123,7\a\7a370f6bbc056958e79f5de2324cbb76072777af
+w
+G.idea/sonarlint/issuestore/8/b/8ba4653c1bad8287ac815b08b6c7a2162de05123,1\f\1f29a7e74872122e564e30b3dbbb1a09b73cfc99
+w
+G.idea/sonarlint/issuestore/1/9/196cfd82d67838104258b105488c6f1efed4b9d2,b\d\bd7d83f3056725e2e7178a9360af77ea243335dc
